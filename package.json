@@ -1,7 +1,7 @@
 {
 <<<<<<< HEAD
 	"name": "REST-API-for-QApp",
-	"description": "A REST API server to act as middleware between QApp and hospital servers.",
+	"description": "A REST API server to act as middle-ware between QApp and hospital servers.",
 	"version": "0.2.14",
 	"author": {
     	"name": "Jose Antonio Jimenez Hernandez",
@@ -20,21 +20,4 @@
 		"express": "~4.13.3",
 		"body-parser": "~1.14.1"
 	}
-=======
-  "name": "qapp",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "body-parser": "~1.13.2",
-    "cookie-parser": "~1.3.5",
-    "debug": "~2.2.0",
-    "express": "~4.13.1",
-    "jade": "~1.11.0",
-    "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
-  }
->>>>>>> dfd261306d2114e8b1cc1f061fe118f3be627261
 }
