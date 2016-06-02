@@ -1,0 +1,22 @@
+{
+	"name": "REST-API-for-QApp",
+	"description": "A REST API server to act as middleware between QApp and hospital servers.",
+	"version": "0.2.14",
+	"author": {
+    	"name": "Jose Antonio Jimenez Hernandez",
+    	"email": "josetalito@gmail.com"
+  	},
+  	"main": "server.js",
+	"keywords": [
+		"questionnaire",
+		"EMA",
+		"UMCG",
+		"psychological",
+		"research"
+	],
+	"private": true,
+	"dependencies": {
+		"express": "~4.13.3",
+		"body-parser": "~1.14.1"
+	}
+}
